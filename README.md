@@ -1,1 +1,4 @@
-# nwjs-crash-test
+# nwjs-crash-
+
+yarn install
+yarn run nw .

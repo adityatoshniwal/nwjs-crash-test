@@ -1,0 +1,22 @@
+{
+  "name": "nwjs-crash-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityatoshniwal/nwjs-crash-test.git"
+  },
+  "author": "Aditya Toshniwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityatoshniwal/nwjs-crash-test/issues"
+  },
+  "homepage": "https://github.com/adityatoshniwal/nwjs-crash-test#readme",
+  "dependencies": {
+    "nw": "0.55.0"
+  }
+}
